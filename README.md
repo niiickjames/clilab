@@ -4,7 +4,7 @@
 ## Pre-requisities:
 
 * IDE (VS Code preffered)
-* Installed [azcli](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) and `jq` pr
+* Installed [azcli](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) and `jq` prt
 * Authenticated `azcli`
 * Set the subscription to the targeted subscription for deployment with azcli
     * `az account set --subscription <mysubscription>`

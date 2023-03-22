@@ -21,4 +21,5 @@ terraform {
 provider "azurerm" {
   features {}
   skip_provider_registration = true
+  subscription_id="/subscriptions/90ee3a19-1af9-4fe1-a2aa-7f98c1f898e6/resourceGroups/wizDemoResourceGroup/providers/Microsoft.Storage/storageAccounts/pipelinenick21468"
 }

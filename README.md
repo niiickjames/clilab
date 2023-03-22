@@ -1,7 +1,7 @@
 # Configure Github Pipeline for Azure
 
 
-## Pre-requisities:
+## Pre-requisities :
 
 * IDE (VS Code preffered)
 * Installed [azcli](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) and `jq`
